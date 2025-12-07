@@ -164,6 +164,8 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Multiple_linear_regression">
         <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_10"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_11"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_12"/>
     </owl:NamedIndividual>
     
 
@@ -261,6 +263,105 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_10">
         <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
         <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#R2"/>
+        <machine-learning-ontology:Data_set>Office building construction projects dataset in Korea</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.3846/jcem.2018.1646</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.868</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_11 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_11">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Absolute_Percentage_Error"/>
+        <machine-learning-ontology:Data_set>Office building construction projects dataset in Korea</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.3846/jcem.2018.1646</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.28</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_12 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_12">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Prediction_Accuracy"/>
+        <machine-learning-ontology:Data_set>Office building construction projects dataset in Korea</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Data_set>https://doi.org/10.3846/jcem.2018.1646</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">94.72</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_13 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_13">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MMRE"/>
+        <machine-learning-ontology:Data_set>Albretch</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.14201/ADCAIJ2021103227240</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.506187</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_14 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_14">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Albretch</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.14201/ADCAIJ2021103227240</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">66.667</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_15 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_15">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#R2"/>
+        <machine-learning-ontology:Data_set>Albretch</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.14201/ADCAIJ2021103227240</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.893</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_16 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_16">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MMRE"/>
+        <machine-learning-ontology:Data_set>China</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.14201/ADCAIJ2021103227240</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.4577</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_17 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_17">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>China</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.14201/ADCAIJ2021103227240</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">50.3999</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_18 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_18">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#R2"/>
+        <machine-learning-ontology:Data_set>China</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.14201/ADCAIJ2021103227240</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.72909</machine-learning-ontology:Value>
     </owl:NamedIndividual>
     
 
