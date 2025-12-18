@@ -136,13 +136,32 @@
     
 
 
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Averaged_ensemble_model -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Averaged_ensemble_model">
+        <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_152"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_153"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_154"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_155"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Decision_Trees -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Decision_Trees">
         <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_100"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_101"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_132"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_133"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_134"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_135"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_16"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_163"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_164"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_165"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_17"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_18"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_21"/>
@@ -217,6 +236,10 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Gradient_Boosting_Trees">
         <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_128"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_129"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_130"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_131"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_38"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_39"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_8"/>
@@ -228,6 +251,10 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#K-nearest_neighbor">
         <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_148"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_149"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_150"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_151"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_22"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_90"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_91"/>
@@ -326,10 +353,14 @@
     
 
 
-    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Multi-Layer_Perceptron -->
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Multilayer_perceptron -->
 
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Multi-Layer_Perceptron">
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Multilayer_perceptron">
         <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_140"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_141"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_142"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_143"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_75"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_76"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_77"/>
@@ -344,6 +375,10 @@
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_10"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_11"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_12"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_144"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_145"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_146"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_147"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_27"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_28"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_29"/>
@@ -370,6 +405,15 @@
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_111"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_112"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_113"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Neuralnet -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Neuralnet">
+        <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_115"/>
     </owl:NamedIndividual>
     
 
@@ -440,6 +484,14 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Random_forest">
         <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_114"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_120"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_121"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_122"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_123"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_160"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_161"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_162"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_2"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_20"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_36"/>
@@ -528,10 +580,26 @@
     
 
 
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Support_vector_machine -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Support_vector_machine">
+        <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_156"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_157"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_158"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_159"/>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Support_vector_regression -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Support_vector_regression">
         <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_136"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_137"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_138"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_139"/>
         <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_9"/>
     </owl:NamedIndividual>
     
@@ -751,6 +819,78 @@
     
 
 
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_114 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_114">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#R2"/>
+        <machine-learning-ontology:Data_set>China</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://dx.doi.org/10.1088/1742-6596/1767/1/012019</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.855</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_115 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_115">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#R2"/>
+        <machine-learning-ontology:Data_set>China</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://dx.doi.org/10.1088/1742-6596/1767/1/012019</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.945</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_116 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_116">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_117 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_117">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.008</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_118 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_118">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.009</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_119 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_119">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_12 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_12">
@@ -759,6 +899,126 @@
         <machine-learning-ontology:Data_set>Office building construction projects dataset in Korea</machine-learning-ontology:Data_set>
         <machine-learning-ontology:Data_set>https://doi.org/10.3846/jcem.2018.1646</machine-learning-ontology:Data_set>
         <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">94.72</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_120 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_120">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_121 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_121">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.013</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_122 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_122">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.011</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_123 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_123">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.011</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_124 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_124">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_125 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_125">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.013</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_126 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_126">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_127 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_127">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_128 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_128">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_129 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_129">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.012</machine-learning-ontology:Value>
     </owl:NamedIndividual>
     
 
@@ -775,6 +1035,126 @@
     
 
 
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_130 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_130">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_131 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_131">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_132 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_132">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_133 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_133">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.013</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_134 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_134">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_135 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_135">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_136 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_136">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_137 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_137">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.013</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_138 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_138">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_139 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_139">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.010</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_14 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_14">
@@ -783,6 +1163,126 @@
         <machine-learning-ontology:Data_set>Albretch</machine-learning-ontology:Data_set>
         <machine-learning-ontology:Source_DOI>https://doi.org/10.14201/ADCAIJ2021103227240</machine-learning-ontology:Source_DOI>
         <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">66.667</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_140 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_140">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_141 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_141">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.013</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_142 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_142">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.012</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_143 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_143">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.012</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_144 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_144">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_145 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_145">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.014</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_146 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_146">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.012</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_147 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_147">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.012</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_148 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_148">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_149 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_149">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.014</machine-learning-ontology:Value>
     </owl:NamedIndividual>
     
 
@@ -799,6 +1299,126 @@
     
 
 
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_150 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_150">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.011</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_151 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_151">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MIBRE"/>
+        <machine-learning-ontology:Data_set>Historical dataset from Software development for business sector</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1002/smr.2611</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.011</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_152 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_152">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>ISBSG</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.jss.2017.11.066</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">69.44</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_153 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_153">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MMRE"/>
+        <machine-learning-ontology:Data_set>ISBSG</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.jss.2017.11.066</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.17</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_154 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_154">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MMER"/>
+        <machine-learning-ontology:Data_set>ISBSG</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.jss.2017.11.066</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.42</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_155 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_155">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>ISBSG</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.jss.2017.11.066</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.2</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_156 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_156">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>ISBSG</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.jss.2017.11.066</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">76.91</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_157 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_157">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MMRE"/>
+        <machine-learning-ontology:Data_set>ISBSG</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.jss.2017.11.066</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.13</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_158 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_158">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MMER"/>
+        <machine-learning-ontology:Data_set>ISBSG</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.jss.2017.11.066</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.47</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_159 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_159">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MBRE"/>
+        <machine-learning-ontology:Data_set>ISBSG</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.jss.2017.11.066</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.16</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_16 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_16">
@@ -807,6 +1427,78 @@
         <machine-learning-ontology:Data_set>China</machine-learning-ontology:Data_set>
         <machine-learning-ontology:Source_DOI>https://doi.org/10.14201/ADCAIJ2021103227240</machine-learning-ontology:Source_DOI>
         <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.4577</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_160 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_160">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>ISBSG (Release 8)</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.procs.2019.01.042</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">40.0</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_161 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_161">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MMRE"/>
+        <machine-learning-ontology:Data_set>ISBSG (Release 8)</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.procs.2019.01.042</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.29</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_162 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_162">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>ISBSG (Release 8)</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.procs.2019.01.042</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.37</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_163 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_163">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Pred25"/>
+        <machine-learning-ontology:Data_set>ISBSG (Release 8)</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.procs.2019.01.042</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">31.11</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_164 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_164">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MMRE"/>
+        <machine-learning-ontology:Data_set>ISBSG (Release 8)</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.procs.2019.01.042</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.92</machine-learning-ontology:Value>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_165 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_165">
+        <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Staitment"/>
+        <rdf:Subject rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#MdMRE"/>
+        <machine-learning-ontology:Data_set>ISBSG (Release 8)</machine-learning-ontology:Data_set>
+        <machine-learning-ontology:Source_DOI>https://doi.org/10.1016/j.procs.2019.01.042</machine-learning-ontology:Source_DOI>
+        <machine-learning-ontology:Value rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0.46</machine-learning-ontology:Value>
     </owl:NamedIndividual>
     
 
@@ -1920,6 +2612,30 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#sMAPE">
         <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Metric_ML"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_of_stacking_ensemble_of_7_machine_learning_methods:_SVR+MLP+DT+MLR+GBT+RF+KNN -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_of_stacking_ensemble_of_7_machine_learning_methods:_SVR+MLP+DT+MLR+GBT+RF+KNN">
+        <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_116"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_117"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_118"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_119"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_of_voting_ensemble_of_3_machine_learning_methods:_KNN+SVR+DT -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_of_voting_ensemble_of_3_machine_learning_methods:_KNN+SVR+DT">
+        <rdf:type rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#Method_ML"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_124"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_125"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_126"/>
+        <machine-learning-ontology:Has_metric rdf:resource="http://www.semanticweb.org/тагир/ontologies/2025/10/machine-learning-ontology#_127"/>
     </owl:NamedIndividual>
     
 
